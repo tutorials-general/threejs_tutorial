@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "three": "^0.126.0"
+  },
+  "name": "threejstutorial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "youngjin <teen14y@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel index.html"
+  }
+}
+
